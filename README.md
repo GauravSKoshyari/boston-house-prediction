@@ -1,5 +1,6 @@
 ## Boston House Pricing Prediction
-This is an end to end House prediction model , which is deployed on heroku.
+This is an end to end House prediction model , which is deployed on heroku. \
+We have also used Docker and github-action to automate the whole process of deployment . 
 
 https://boston-price-prediction1.herokuapp.com/
 
